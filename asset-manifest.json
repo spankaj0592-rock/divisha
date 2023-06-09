@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/divisha/static/css/main.80bc63c5.css",
+    "main.js": "/divisha/static/js/main.e377f2e3.js",
+    "static/media/white-logo.png": "/divisha/static/media/white-logo.95d7e959ab2978704e2e.png",
+    "static/media/banner.jpg": "/divisha/static/media/banner.5f2d10ce87b5f84a1fd5.jpg",
+    "static/media/background-thedir-cover.jpg": "/divisha/static/media/background-thedir-cover.710716ccabc677e16270.jpg",
+    "index.html": "/divisha/index.html",
+    "main.80bc63c5.css.map": "/divisha/static/css/main.80bc63c5.css.map",
+    "main.e377f2e3.js.map": "/divisha/static/js/main.e377f2e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80bc63c5.css",
+    "static/js/main.e377f2e3.js"
+  ]
+}
